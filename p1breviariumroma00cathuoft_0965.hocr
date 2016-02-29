@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p1breviariumroma00cathuoft_0965.png"; bbox 0 0 2080 2990; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 718 565 1337 756">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 718 565 1337 658">
+     <span class='ocr_line' id='line_1_1' title="bbox 718 565 1337 610; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 718 566 802 610; x_wconf 75' lang='lat' dir='ltr'>BOT</span> <span class='ocrx_word' id='word_1_2' title='bbox 837 566 946 610; x_wconf 58' lang='lat'>4371</span> <span class='ocrx_word' id='word_1_3' title='bbox 994 566 1070 610; x_wconf 58' lang='grc' dir='ltr'>,ια</span> <span class='ocrx_word' id='word_1_4' title='bbox 1104 566 1190 610; x_wconf 63' lang='lat' dir='ltr'>v.u</span> <span class='ocrx_word' id='word_1_5' title='bbox 1224 565 1337 610; x_wconf 79' lang='lat' dir='ltr'>Pars</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 868 614 1250 658; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 868 614 1099 658; x_wconf 74' lang='lat' dir='ltr'>Hiemalls</span> <span class='ocrx_word' id='word_1_7' title='bbox 1166 614 1250 658; x_wconf 76' lang='lat' dir='ltr'>SMC</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 721 662 1160 707">
+     <span class='ocr_line' id='line_1_3' title="bbox 721 662 1160 707; baseline -0.005 0"><span class='ocrx_word' id='word_1_8' title='bbox 721 662 953 707; x_wconf 71' lang='lat' dir='ltr'>Cathollc</span> <span class='ocrx_word' id='word_1_9' title='bbox 986 662 1160 706; x_wconf 74' lang='lat' dir='ltr'>Churcn</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 718 711 1251 756">
+     <span class='ocr_line' id='line_1_4' title="bbox 718 711 1251 756; baseline -0.002 -1"><span class='ocrx_word' id='word_1_10' title='bbox 718 711 1012 756; x_wconf 68' lang='lat' dir='ltr'>Breviarium</span> <span class='ocrx_word' id='word_1_11' title='bbox 1046 711 1251 755; x_wconf 77' lang='lat' dir='ltr'>Romanum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 697 757 953 806">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 697 757 953 806">
+     <span class='ocr_line' id='line_1_5' title="bbox 697 757 953 806; baseline 0 -1"><span class='ocrx_word' id='word_1_12' title='bbox 697 757 953 806; x_wconf 59' lang='lat'>‘47217132</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
